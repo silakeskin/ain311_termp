@@ -19,8 +19,8 @@ Folder Structure
 
 Introduction
 
-The aim of this project is to analyze sequential images of a chessboard and detect the movement of chess pieces. It provides annotated output images highlighting the changes between frames and identifies which chess pieces have moved. This project is particularly useful for creating automated chess game analysis tools or for educational purposes.
-
+The aim of this project is to analyze sequential images of a chessboard and detect the movement of chess pieces. It provides annotated output images highlighting the changes between frames and identifies which chess pieces have moved. This project is particularly useful for creating automated chess game analysis tools or for educational purposes. Original dataset link : https://www.kaggle.com/datasets/imtkaggleteam/chess-pieces-detection-image-dataset
+Some augmentations are aplied on original dataset. Train data had 650 images. After augmentation, it has increased to 1450. Model file ("best.pt") contains the model trained with augmented data.
 Features
 
 Detection of chess pieces using YOLOv8.
