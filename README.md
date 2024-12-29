@@ -55,7 +55,7 @@ Usage
 
 To use this project:
 
-Place your input images in the test_selected folder. Ensure the images are named sequentially (e.g., 1.jpeg, 2.jpeg). The code will not work as it should for all the photos you will upload. I provided test photos for your ease.
+Place your input images in the test_selected folder or unzip the test_selected file which is provided in this repository. Ensure the images are named sequentially (e.g., 1.jpeg, 2.jpeg). The code will not work as it should for all the photos you will upload.
 
 Unzip test_selected file
 
@@ -78,6 +78,7 @@ Below is the expected folder structure:
 |-- marked/                  # Folder for saving output images
 |-- requirements.txt         # Python dependencies
 
+!!! Training files are provided if you would like to check over. Please do not run training files ("project_yolov8_train" and "SSD_implementation")because it takes so much time and it can change the "best.pt"  file. !!!
 
-Feel free to customize this README further based on your specific needs or preferences!
+
 
