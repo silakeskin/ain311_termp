@@ -78,7 +78,7 @@ Below is the expected folder structure:
 |-- marked/                  # Folder for saving output images
 |-- requirements.txt         # Python dependencies
 
-!!! Training files are provided if you would like to check over. Please do not run training files ("project_yolov8_train" and "SSD_implementation")because it takes so much time and it can change the "best.pt"  file. !!!
+!!! Training files are provided if you would like to check over. Please do not run training files ("project_yolov8_train_new" and "SSD_implementation")because it takes so much time and it can change the "best.pt"  file. !!!
 
 
 
